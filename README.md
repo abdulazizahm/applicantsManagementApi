@@ -1,4 +1,3 @@
-# applicantsManagementApi
 # API using .Net5 Core Api 
 
 # Endpoints Below are described the REST endpoints available that you can use to search for applicants
